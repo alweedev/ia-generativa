@@ -15,8 +15,6 @@ Ela se baseia em modelos LLMs (_Large Language Models_) e arquiteturas como **tr
 
 - 🔷 **OpenAI API** – Geração de textos, resumos e respostas inteligentes via prompt
 - 💡 **GitHub Copilot** – Assistente de código com sugestões automáticas no VS Code
-- 📬 **Postman** – Testes de APIs REST, incluindo chamadas à OpenAI
-- 📦 **Node.js** – Scripts simples para integração com serviços de IA
 
 ---
 
