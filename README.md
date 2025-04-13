@@ -22,7 +22,6 @@ Ela se baseia em modelos LLMs (_Large Language Models_) e arquiteturas como **tr
 
 - ✅ Geração automática de funções e testes com **GitHub Copilot**
 - ✍️ Criação de textos e respostas com linguagem natural usando a **API da OpenAI**
-- 📋 Automatização de **descrições de projetos**, **e-mails**, **nomes de produtos** e outras tarefas criativas
 
 ---
 
